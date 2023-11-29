@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\PROJECT\dental-unit\dental-unit-PCB\dental-uint-pedal v1_0\dental-uint-pedal v1_0.PcbDoc
-Date     : 12.11.2023
-Time     : 17:51:06
+Date     : 23.11.2023
+Time     : 23:35:07
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad Free-M0(0mm,-42mm) on Multi-Layer on Net GND
@@ -67,4 +67,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
