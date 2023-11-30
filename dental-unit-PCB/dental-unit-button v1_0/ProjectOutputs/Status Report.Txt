@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [dental-unit-button v1_0.PrjPCB]
+   Generated File[dental-unit-button v1_0-RoundHoles.TXT]
+   Generated File[dental-unit-button v1_0-SlotHoles.TXT]
+   Generated File[dental-unit-button v1_0.LDP]
+   Generated File[dental-unit-button v1_0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:39:06 On 30.11.2023

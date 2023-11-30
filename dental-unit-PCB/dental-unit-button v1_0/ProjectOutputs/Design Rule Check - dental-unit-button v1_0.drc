@@ -1,10 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : G:\PROJECT\dental-unit\dental-unit-PCB\dental-unit-button v1_0\dental-unit-button v1_0.PcbDoc
-Date     : 24.11.2023
-Time     : 22:28:42
+Date     : 30.11.2023
+Time     : 23:38:19
 
 WARNING: Multilayer Pads with 0 size Hole found
-   Pad Free-RepPoint2(26.625mm,5.7mm) on Multi-Layer
+   Pad Free-RepPoint2(30.725mm,-3.9mm) on Multi-Layer
    Pad Free-RepPoint2(5.1mm,49.975mm) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (IsStitchingVia and InNet('No Net')),((IsVia and (Not IsStitchingVia)) Or IsPad)
@@ -14,8 +14,7 @@ Processing Rule : Clearance Constraint (Gap=0.15mm) ((InPadClass('New Class 2'))
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
-   Violation between Clearance Constraint: (0.15mm < 0.2mm) Between Pad VT1-2(2.825mm,19.9mm) on Top Layer And Track (3.575mm,17.525mm)(3.575mm,20.683mm) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=1mm) (InPadClass('Reper')),(All)
 Rule Violations :0
@@ -63,6 +62,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01

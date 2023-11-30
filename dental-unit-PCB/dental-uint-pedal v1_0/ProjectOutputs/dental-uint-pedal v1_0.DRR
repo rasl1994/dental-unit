@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dental-uint-pedal v1_0.PcbDoc   01.12.2023  0:01:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dental-uint-pedal v1_0-RoundHoles.TXT
+ASCII SlotHoles File : dental-uint-pedal v1_0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             201       PTH        724.43mm (28.52inch)
+T2      0.6mm (24mil)                                             Round             4         PTH        3.81mm (0.15inch)
+T3      0.7mm (28mil)                                             Round             39        PTH        211.05mm (8.31inch)
+T4      3.2mm (126mil)                                            Slot              4         NPTH       252.05mm (9.92inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              248
+
+Total Processing Time (hh:mm:ss) : 00:00:00

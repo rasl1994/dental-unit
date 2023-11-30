@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dental-unit-AS5600 v1_0.PcbDoc   30.11.2023  23:43:07
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dental-unit-AS5600 v1_0-RoundHoles.TXT
+ASCII SlotHoles File : dental-unit-AS5600 v1_0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             57        PTH        212.69mm (8.37inch)
+T2      3.2mm (126mil)                                            Slot              3         NPTH       103.13mm (4.06inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              60
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dental-unit-button v1_0.PcbDoc   30.11.2023  23:39:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dental-unit-button v1_0-RoundHoles.TXT
+ASCII SlotHoles File : dental-unit-button v1_0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             173       PTH        618.37mm (24.35inch)
+T2      0.6mm (24mil)                                             Round             5         PTH        5.10mm (0.20inch)
+T3      0.7mm (28mil)                                             Round             48        PTH        133.69mm (5.26inch)
+T4      1mm (39mil)                                               Round             8         PTH        28.75mm (1.13inch)
+T5      3.2mm (126mil)                                            Slot              4         NPTH       266.93mm (10.51inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              238
+
+Total Processing Time (hh:mm:ss) : 00:00:00

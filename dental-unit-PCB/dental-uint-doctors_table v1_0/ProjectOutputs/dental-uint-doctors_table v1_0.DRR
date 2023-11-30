@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dental-uint-doctors_table v1_0.PcbDoc   01.12.2023  0:05:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dental-uint-doctors_table v1_0-RoundHoles.TXT
+ASCII SlotHoles File : dental-uint-doctors_table v1_0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             993       PTH        3720.52mm (146.48inch)
+T2      0.6mm (24mil)                                             Round             5         PTH        5.10mm (0.20inch)
+T3      0.7mm (28mil)                                             Round             32        PTH        79.90mm (3.15inch)
+T4      1mm (39mil)                                               Round             28        PTH        175.40mm (6.91inch)
+T5      1.4mm (55mil)                                             Round             44        PTH        450.70mm (17.74inch)
+T6      3.2mm (126mil)                                            Slot              5         NPTH       603.15mm (23.75inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1107
+
+Total Processing Time (hh:mm:ss) : 00:00:00
